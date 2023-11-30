@@ -1,1 +1,1 @@
-Aprendendo a utulizar o GIT-GITHUB
+Aprendendo a utilizar o GIT-GITHUB
